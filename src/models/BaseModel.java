@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/** ALDAKETA A1
  * Modelo que sirve como base para todos los demas modelos
  *
  * @author Alejandro Escobedo, Daniela Santillanes
