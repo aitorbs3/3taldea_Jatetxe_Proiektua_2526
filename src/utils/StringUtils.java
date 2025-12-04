@@ -4,6 +4,7 @@ package utils;
  *
  * @author Alejandro Escobedo
  */
+/* kaixo */
 public class StringUtils {
     
       public static String capitalize(final String line) {
