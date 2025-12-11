@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Daniela Santillanes
+ * @author Aldaketa, hirugarren zatia
  */
 public class Login extends BaseFrame {
 
