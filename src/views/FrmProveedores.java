@@ -6,6 +6,7 @@ import models.Proveedor;
 import oraclegeneral.Conexion;
 
 /**
+ * aldaketaA1
  * JFrame para agregar proveedores a la base de datos.
  * @author Daniela Santillanes Castro 
  * @version 1.0
